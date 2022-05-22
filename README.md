@@ -79,7 +79,7 @@
     </tr>
 </table>
 <div>
-	<img align="right" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/dev.gif" width="400" height="256" />
+	<img align="right" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/dev.gif" width="400" height="256" />&nbsp;&nbsp;&nbsp;
 	<img align="left" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/code.gif" width="400" height="256" />
 </div>
 
