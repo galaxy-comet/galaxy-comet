@@ -1,9 +1,9 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Program%20Expert;Blockchain%20Unity%20React%20Master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
 </div>
-<p align="center">
+<!-- <p align="center">
     <img align="right" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/header.png?raw=true" style="width: 100%" />
-</p>
+</p> -->
 <table>
     <tr>
         <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
@@ -87,7 +87,6 @@
 <h2 align="left"><img src="https://github.com/galaxy-comet/galaxy-comet/blob/main/wave.gif" alt="" width="40px" />&nbsp;About Me</h2>
 - :credit_card: I am a **silent developer**<br>
 - :books: My major is **All-Around Develop**<br>
-- :earth_asia: I'm living now in **ASIA**<br>
 - :sweat_smile: I love computer, so I want to know all technologies.<br>
 - :monocle_face: I'm interested in sleeping, coding and watching film<br>
 - :sunglasses: My quote is ***"Always aim for the top! Don't waste time. Many things are waiting. In there, there is also a quiet life."*** <br>
