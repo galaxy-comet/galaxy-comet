@@ -87,22 +87,13 @@
     </tr>
 </table>
 <div>
-	<img align="right" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/dev.gif" width="415" height="260" />&nbsp;&nbsp;
-	<img align="left" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/code.gif" width="415" height="260" />
+    <img align="right" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/dev.gif" width="415" height="260" />&nbsp;&nbsp;
+    <img align="left" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/code.gif" width="415" height="260" />
 </div>
 
 
-<h2 align="left">About Me</h2>
-- :credit_card: I am a **silent developer**<br>
-- :books: My major is **All-Around Develop**<br>
-- :sweat_smile: I love computer, so I want to know all technologies.<br>
-- :monocle_face: I'm interested in sleeping, coding and watching film<br>
-- :sunglasses: My quote is ***"Always aim for the top! Don't waste time. Many things are waiting. In there, there is also a quiet life."*** <br>
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep<br>
-
-## <img src='https://github.com/galaxy-comet/galaxy-comet/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
-
 <div>
+   ## For More Information, Please Check Out or Connect Me Via
    <h5>
 	<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Gmail.svg" />
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gently039@gmail.com
@@ -118,7 +109,5 @@
        <img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Githbu.png" />
 	       &nbsp;&nbsp;&nbsp;https://github.com/galaxy-comet
 	       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- 		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Resume.png" />
-	&nbsp;&nbsp;&nbsp;<a href="https://www.canva.com/design/DAFAoo2ZHIo/9KLGgIju0rca0xg2iYlDfA/view?utm_content=DAFAoo2ZHIo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1" target="_blank" rel="noreferrer">My Resume</a> -->
    </h5>
 <div>
