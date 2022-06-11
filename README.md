@@ -1,16 +1,17 @@
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Program%20Expert;Blockchain%20Unity%20React%20Master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
-    ![](./profile-3d-contrib/profile-green-animate.svg)
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tinkerbell07.tinkerbell07" />
-    <img align="right" src="https://img.shields.io/github/followers/tinkerbell07?label=Follow&style=social" />
-    <h1 align="center"></h1>
-    <h1 align="center"></h1>
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tinkerbell07&count_private=true&show_icons=true&theme=chartreuse-dark" />
-    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerbell07&layout=compact&theme=chartreuse-dark&langs_count=8" />
-    <img height="150" />
-</br>
-    
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=galaxy-comet.galaxy-comet" />
+<img align="right" src="https://img.shields.io/github/followers/galaxy-comet?label=Follow&style=social" />
+<h1 align="center"></h1>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=galaxy-comet&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy-comet&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img height="150" />
+</br>
+
 <table>
     <tr>
         <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
