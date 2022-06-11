@@ -103,7 +103,7 @@
 		&nbsp;&nbsp;&nbsp;https://t.me/LiuWen811
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Skype.png" />
-		&nbsp;&nbsp;&nbsp;https://join.skype.com/invite/OEkqnXkemAK8
+		&nbsp;&nbsp;&nbsp;live:.cid.6fd1d50a768dc7b
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    </h5>
    <h5>
