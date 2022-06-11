@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Program%20Expert;Blockchain%20Unity%20React%20Master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Program%20Expert;Blockchain%20Unity%20React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -97,7 +97,7 @@
 <div>
    <h5>
 	<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Gmail.svg" />
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gently039@gmail.com
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liuwentalent0811@gmail.com
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Telegram.png" />
 		&nbsp;&nbsp;&nbsp;https://t.me/LiuWen811
