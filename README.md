@@ -3,6 +3,13 @@
     ![](./profile-3d-contrib/profile-green-animate.svg)
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tinkerbell07.tinkerbell07" />
     <img align="right" src="https://img.shields.io/github/followers/tinkerbell07?label=Follow&style=social" />
+    <h1 align="center"></h1>
+    <h1 align="center"></h1>
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tinkerbell07&count_private=true&show_icons=true&theme=chartreuse-dark" />
+    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerbell07&layout=compact&theme=chartreuse-dark&langs_count=8" />
+    <img height="150" />
+</br>
+    
 </div>
 <table>
     <tr>
