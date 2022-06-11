@@ -43,7 +43,7 @@
         <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
         <td><a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a></td>
         <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></td>
-        <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></td>
+        <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>         </td>
     </tr>
     <tr>
         <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></td>
@@ -90,16 +90,17 @@
     <img align="right" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/dev.gif" width="415" height="260" />&nbsp;&nbsp;
     <img align="left" alt="GIF" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/code.gif" width="415" height="260" />
 </div>
-
+<img height="200" />
+</br>
+<h1 align="center">For More Information, Please Check Out or Connect Me Via</h1>
 
 <div>
-   ## For More Information, Please Check Out or Connect Me Via
    <h5>
 	<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Gmail.svg" />
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gently039@gmail.com
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Telegram.png" />
-		&nbsp;&nbsp;&nbsp;https://t.me/developer_comet
+		&nbsp;&nbsp;&nbsp;https://t.me/LiuWen811
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Skype.png" />
 		&nbsp;&nbsp;&nbsp;https://join.skype.com/invite/OEkqnXkemAK8
