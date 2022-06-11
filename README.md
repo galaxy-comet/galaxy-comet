@@ -84,7 +84,7 @@
 </div>
 
 
-<h2 align="left"><img src="https://github.com/galaxy-comet/galaxy-comet/blob/main/wave.gif" alt="" width="40px" />&nbsp;About Me</h2>
+<h2 align="left"><img src="https://github.com/galaxy-comet/galaxy-comet/blob/main/wave.gif" alt="" width="10px" />&nbsp;About Me</h2>
 - :credit_card: I am a **silent developer**<br>
 - :books: My major is **All-Around Develop**<br>
 - :sweat_smile: I love computer, so I want to know all technologies.<br>
