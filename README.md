@@ -1,9 +1,16 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Program%20Expert;Blockchain%20Unity%20React%20Master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
+    ![](./profile-3d-contrib/profile-green-animate.svg)
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tinkerbell07.tinkerbell07" />
+    <img align="right" src="https://img.shields.io/github/followers/tinkerbell07?label=Follow&style=social" />
+    <h1 align="center"></h1>
+    <h1 align="center"></h1>
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tinkerbell07&count_private=true&show_icons=true&theme=chartreuse-dark" />
+    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerbell07&layout=compact&theme=chartreuse-dark&langs_count=8" />
+    <img height="150" />
+</br>
+    
 </div>
-<p align="center">
-    <img align="right" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/header.png?raw=true" style="width: 100%" />
-</p>
 <table>
     <tr>
         <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
@@ -84,10 +91,9 @@
 </div>
 
 
-<h2 align="left"><img src="https://github.com/galaxy-comet/galaxy-comet/blob/main/wave.gif" alt="" width="40px" />&nbsp;About Me</h2>
+<h2 align="left">About Me</h2>
 - :credit_card: I am a **silent developer**<br>
 - :books: My major is **All-Around Develop**<br>
-- :earth_asia: I'm living now in **ASIA**<br>
 - :sweat_smile: I love computer, so I want to know all technologies.<br>
 - :monocle_face: I'm interested in sleeping, coding and watching film<br>
 - :sunglasses: My quote is ***"Always aim for the top! Don't waste time. Many things are waiting. In there, there is also a quiet life."*** <br>
@@ -96,22 +102,22 @@
 ## <img src='https://github.com/galaxy-comet/galaxy-comet/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
 
 <div>
-	<h5>
-		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Gmail.svg" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oleksandrshkabura811@gmail.com
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Telegram.png" />
-			&nbsp;&nbsp;&nbsp;https://t.me/galaxy_comet
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Skype.png" />
-			&nbsp;&nbsp;&nbsp;https://join.skype.com/invite/OEkqnXkemAK8
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	</h5>
-	<h5>
-		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Githbu.png" />
-			&nbsp;&nbsp;&nbsp;https://github.com/galaxy-comet
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Resume.png" />
-			&nbsp;&nbsp;&nbsp;<a href="https://www.canva.com/design/DAFAoo2ZHIo/9KLGgIju0rca0xg2iYlDfA/view?utm_content=DAFAoo2ZHIo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1" target="_blank" rel="noreferrer">My Resume</a>
-	</h5>
+   <h5>
+	<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Gmail.svg" />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gently039@gmail.com
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Telegram.png" />
+		&nbsp;&nbsp;&nbsp;https://t.me/developer_comet
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Skype.png" />
+		&nbsp;&nbsp;&nbsp;https://join.skype.com/invite/OEkqnXkemAK8
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   </h5>
+   <h5>
+       <img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Githbu.png" />
+	       &nbsp;&nbsp;&nbsp;https://github.com/galaxy-comet
+	       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- 		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Resume.png" />
+	&nbsp;&nbsp;&nbsp;<a href="https://www.canva.com/design/DAFAoo2ZHIo/9KLGgIju0rca0xg2iYlDfA/view?utm_content=DAFAoo2ZHIo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1" target="_blank" rel="noreferrer">My Resume</a> -->
+   </h5>
 <div>
