@@ -94,7 +94,7 @@
 </br>
 <h1 align="center">For More Information, Please Check Out or Connect Me Via</h1>
 
-<div>
+<div align="center">
    <h5>
 	<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/galaxy-comet/galaxy-comet/blob/main/Gmail.svg" />
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liuwentalent0811@gmail.com
