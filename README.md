@@ -92,7 +92,7 @@
 </div>
 <img height="200" />
 </br>
-<h1 align="center">For More Information, Please Check Out or Connect Me Via</h1>
+<h1 align="center">Please contact me via this.</h1>
 
 <div align="center">
    <h5>
